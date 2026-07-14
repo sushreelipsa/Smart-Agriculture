@@ -1,2 +1,2 @@
 # Smart-Agriculture
-collect data from sensor then process
+collect data from sensors,then process
